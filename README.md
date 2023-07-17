@@ -1,0 +1,1 @@
+# Perform-LDA-on-Diabetes-dataset-apply-PCA-and-Random-Forest-and-find-its-accuracy
